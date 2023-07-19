@@ -112,6 +112,7 @@ library(plotly)
 
 ```{r readcsv}
 daily_activity <- read.csv("source-data/dailyActivity_merged.csv")
+#on Kaggle daily_activity <- read.csv("/kaggle/input/Daily-Activity-Merged/dailyActivity_merged.csv")
 ```
 
 #### 3.3 Data Cleaning and Manipulation
