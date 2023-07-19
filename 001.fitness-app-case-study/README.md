@@ -100,7 +100,7 @@ We are using multiple tools to clean the data.
 ---
 ### 4-Analyze - Analyzing the data
 
-  *** Observations in the spreadsheet version were same as in the R version mentioned earlier ***
+  ***Observations in the spreadsheet version were same as in the R version mentioned earlier***
 
 ---
 
